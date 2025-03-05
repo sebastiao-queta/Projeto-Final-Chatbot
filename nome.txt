@@ -1,0 +1,6 @@
+0:Acne,1:Arthritis,2:Bronchial Asthma,3:Cervical spondylosis,4:Chicken pox,5:Common Cold,
+6:Dengue,7:Dimorphic Hemorrhoids,8:Fungal infection,9:Hypertension,10:Impetigo,
+11:Jaundice,12:Malaria,13:Migraine,14:Pneumonia,15:Psoriasis,
+16:Typhoid,17:Varicose Veins,18:allergy,19:diabetes,20:drug reaction,
+21:gastroesophageal reflux disease,22:peptic ulcer disease,
+23:urinary tract infection
